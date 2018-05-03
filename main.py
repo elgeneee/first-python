@@ -15,3 +15,4 @@ def test():
         return("Hi {}, so your age is {}. Confirm?".format(var, var2))
 
 test()
+23
